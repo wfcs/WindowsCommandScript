@@ -1,1 +1,2 @@
-*.cmd linguist-language=ps1
+*.cmd linguist-language=c#
+*.bat linguist-language=c#
